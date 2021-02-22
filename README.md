@@ -66,7 +66,7 @@
 ## May, 2020
 
 - [SAML Service provider in GA](https://docs.microsoft.com/azure/active-directory-b2c/connect-with-saml-service-providers)
-- Azure AD B2C to Azure AD B2C federation is supported.
+- [Azure AD B2C to Azure AD B2C federation](https://docs.microsoft.com/en-us/azure/active-directory-b2c/identity-provider-azure-ad-b2c?pivots=b2c-custom-policy) is supported.
 - [Document] Learn how to:
    - [Configure session using custom policy, with single sign-out](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior-custom-policy)
    - [Amazon federation app registration is updated with the Amazon new developer console](https://docs.microsoft.com/azure/active-directory-b2c/identity-provider-amazon-custom)
