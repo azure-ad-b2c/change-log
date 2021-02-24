@@ -2,7 +2,7 @@
 
 ## February, 2021
 
-- [Enable Keep me signed in (KMSI) is now supported by user flows](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior?pivots=b2c-user-flow#enable-keep-me-signed-in-kmsi)
+- [Keep me signed in (KMSI)](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior?pivots=b2c-user-flow#enable-keep-me-signed-in-kmsi) is now supported by user flows.
 
 ## January, 2021
 
