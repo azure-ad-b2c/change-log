@@ -1,5 +1,9 @@
 # Azure AD B2C change-log
 
+## February, 2021
+
+- [Enable Keep me signed in (KMSI) is now supported by user flows](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior?pivots=b2c-user-flow#enable-keep-me-signed-in-kmsi)
+
 ## January, 2021
 
 - [Azure AD B2C service limits and restrictions](https://docs.microsoft.com/azure/active-directory-b2c/service-limits)
