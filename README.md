@@ -3,7 +3,7 @@
 ## March, 2021
 
 - [Force password reset](https://docs.microsoft.com/azure/active-directory-b2c/force-password-reset).
-- [New Self-service password reset](https://docs.microsoft.com/azure/active-directory-b2c/add-password-reset-policy), without error redirection. Also known as embedded password policy.
+- [New Self-service password reset user experience](https://docs.microsoft.com/azure/active-directory-b2c/add-password-reset-policy), without error redirection. Also known as embedded password policy.
 - [Reset a user's password through Azure Portal](https://docs.microsoft.com/azure/active-directory-b2c/manage-users-portal#reset-a-users-password).
 - [Set up sign-up and sign-in with an Apple ID](https://docs.microsoft.com/azure/active-directory-b2c/identity-provider-apple-id).
 
