@@ -1,6 +1,8 @@
 # Azure AD B2C change-log
 
 ## March, 2021
+- [Custom domains](https://docs.microsoft.com/azure/active-directory-b2c/custom-domain)
+- [Embedded sign-in experience](https://docs.microsoft.com/azure/active-directory-b2c/embedded-login)
 - Claims transformations: [FormatLocalizedString](https://docs.microsoft.com/azure/active-directory-b2c/string-transformations#formatlocalizedstring)
 - [Force password reset](https://docs.microsoft.com/azure/active-directory-b2c/force-password-reset).
 - [New Self-service password reset user experience](https://docs.microsoft.com/azure/active-directory-b2c/add-password-reset-policy), without error redirection. Also known as embedded password policy.
