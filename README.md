@@ -12,6 +12,7 @@
 ## February, 2021
 
 - [Keep me signed in (KMSI)](https://docs.microsoft.com/azure/active-directory-b2c/session-behavior?pivots=b2c-user-flow#enable-keep-me-signed-in-kmsi) is now supported by user flows.
+- [Azure AD B2C 99.99% SLA Announcement](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/99-99-uptime-for-azure-active-directory-b2c/ba-p/2147049), updated B2C SLA starts May 2021.
 
 ## January, 2021
 
