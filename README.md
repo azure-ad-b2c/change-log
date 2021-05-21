@@ -1,6 +1,6 @@
 # Azure AD B2C change-log
 
-## April, 2011
+## April, 2021
 - Refresh tokens can now be used to acquire access tokens to any api scope that has been consented to on the Application Registration.
 
 ## March, 2021
