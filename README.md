@@ -1,5 +1,8 @@
 # Azure AD B2C change-log
 
+## April, 2011
+- Refresh tokens can now be used to acquire access tokens to any api scope that has been consented to on the Application Registration.
+
 ## March, 2021
 - [Custom domains](https://docs.microsoft.com/azure/active-directory-b2c/custom-domain)
 - [Embedded sign-in experience](https://docs.microsoft.com/azure/active-directory-b2c/embedded-login)
