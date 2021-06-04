@@ -8,8 +8,8 @@
 
 - [Define an OAuth2 custom error technical profile](https://docs.microsoft.com/azure/active-directory-b2c/oauth2-error-technical-profile)
 - [Page layout version 2.1.6](https://docs.microsoft.com/azure/active-directory-b2c/page-layout)
-- [Document] Learn how to [testing the password protection settings](https://docs.microsoft.com/azure/active-directory-b2c/threat-management#testing-the-password-protection-settings)
-- [Document] [TLS and cipher suite requirements](https://docs.microsoft.com/en-us/azure/active-directory-b2c/https-cipher-tls-requirements)
+- [TLS and cipher suite requirements](https://docs.microsoft.com/en-us/azure/active-directory-b2c/https-cipher-tls-requirements)
+- [Document] Learn how to [test the password protection settings](https://docs.microsoft.com/azure/active-directory-b2c/threat-management#testing-the-password-protection-settings)
 
 ## April, 2021
 
