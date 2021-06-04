@@ -1,11 +1,27 @@
 # Azure AD B2C change-log
 
+## Jun, 2021
+
+- Starting May 2021, GitHub announced a change that impacts your Azure AD B2C custom policy federation. To fix this issue, [update your GitHub technical profile](https://docs.microsoft.com/azure/active-directory-b2c/identity-provider-github?pivots=b2c-custom-policy)
+
+## May, 2021
+
+- [Define an OAuth2 custom error technical profile](https://docs.microsoft.com/azure/active-directory-b2c/oauth2-error-technical-profile)
+- [Page layout version 2.1.6](https://docs.microsoft.com/azure/active-directory-b2c/page-layout)
+- [Document] Learn how to [testing the password protection settings](https://docs.microsoft.com/azure/active-directory-b2c/threat-management#testing-the-password-protection-settings)
+- [Document] [TLS and cipher suite requirements](https://docs.microsoft.com/en-us/azure/active-directory-b2c/https-cipher-tls-requirements)
+
 ## April, 2021
+
 - Refresh tokens can now be used to acquire access tokens to any api scope that has been consented to on the Application Registration.
+- [Set up sign-up and sign-in with an eBay](https://docs.microsoft.com/azure/active-directory-b2c/identity-provider-ebay?pivots=b2c-custom-policy)
+- [Custom email verification GA](https://docs.microsoft.com/azure/active-directory-b2c/custom-policy-developer-notes#user-experience-customization)
+- [Azure AD B2C tenant data residency in Australia](https://docs.microsoft.com/azure/active-directory-b2c/data-residency#data-residency)
+- [Document] Learn how to [manage your Azure AD B2C tenant](https://docs.microsoft.com/azure/active-directory-b2c/tenant-management)
 
 ## March, 2021
 - [Custom domains](https://docs.microsoft.com/azure/active-directory-b2c/custom-domain)
-- [Embedded sign-in experience](https://docs.microsoft.com/azure/active-directory-b2c/embedded-login)
+- [Embedded sign-in experience using iframe](https://docs.microsoft.com/azure/active-directory-b2c/embedded-login)
 - Claims transformations: [FormatLocalizedString](https://docs.microsoft.com/azure/active-directory-b2c/string-transformations#formatlocalizedstring)
 - [Force password reset](https://docs.microsoft.com/azure/active-directory-b2c/force-password-reset).
 - [New Self-service password reset user experience](https://docs.microsoft.com/azure/active-directory-b2c/add-password-reset-policy), without error redirection. Also known as embedded password policy.
