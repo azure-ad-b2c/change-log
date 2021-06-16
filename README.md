@@ -2,7 +2,8 @@
 
 ## Jun, 2021
 
-- Starting May 2021, GitHub announced a change that impacts your Azure AD B2C custom policy federation. To fix this issue, [update your GitHub technical profile](https://docs.microsoft.com/azure/active-directory-b2c/identity-provider-github?pivots=b2c-custom-policy)
+- Starting May 2021, GitHub announced a change that impacts your Azure AD B2C custom policy federation that uses Github as an Identity Provider. To fix this issue, [update your GitHub technical profile](https://docs.microsoft.com/azure/active-directory-b2c/identity-provider-github?pivots=b2c-custom-policy)
+- AzureAD B2C 99.99% SLA is in updated documentation https://azure.microsoft.com/en-us/support/legal/sla/active-directory-b2c/v1_1/
 
 ## May, 2021
 
